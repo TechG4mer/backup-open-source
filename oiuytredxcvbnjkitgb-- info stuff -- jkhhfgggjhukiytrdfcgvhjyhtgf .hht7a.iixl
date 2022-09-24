@@ -1,0 +1,42 @@
+Techg4mer.com {
+	Discord-Links{
+		Main:
+		Web Hub:
+		Bot Support:
+		Minecraft Discord server;
+	}
+	minecraft{
+		server{
+			Screenshots:
+			Info{
+				server IP:
+				Rules:
+			}
+		}
+		maps{
+			minigames{
+				Screenshots:
+				games list{
+					parkour:
+					pvp:
+					pve:
+					bedwars:
+					block party:
+					capture the flag:
+					glide:
+					skywars:
+					tumble:
+				extras{
+					shops:
+					maps:
+					quests:
+					}
+				}
+			}
+		}
+	}
+}
+
+Sound FX.cf{
+	?:
+}
